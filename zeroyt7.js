@@ -59,15 +59,15 @@ const simple = require('./F3/simple.js')
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-let botname = 'Kunz Botz' //NAMA BOT
-let zerokey =  'ZeroYT7' //BIARIN AE:V
+let botname = 'Monster Bot' //NAMA BOT
+let zerokey =  'monsterhd4k' //BIARIN AE:V
 let lolkey = 'KurrXd' // FREE APIKEY NYOLONG DARI KURR:v
-let zekskey = 'Nekonimastah' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = 'KunzxD' //NAMA OWNER
-let owner = '6287778886786' // NOMOR OWNER
+let zekskey = 'monsterhd4k' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
+let ownername = 'monsterhd4k' //NAMA OWNER
+let owner = '595985770265' // NOMOR OWNER
 let bold = '*' 
 let petik = '```'
-let faketeks = `_Neo Bot By KunzxD_` 
+let faketeks = `_Bot by Monster_` 
 
 banChats = true; 
 readGc = true; 
